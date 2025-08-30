@@ -1,0 +1,22 @@
+.vocab-form {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #fef9e7;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+.vocab-form input,
+.vocab-form textarea {
+  display: block;
+  width: 90%;
+  margin: 8px auto;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.vocab-form button {
+  margin-top: 10px;
+}

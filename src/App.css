@@ -1,0 +1,86 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+  padding: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: #4f6df5;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #3b53c7;
+}
+
+.quiz-modal {
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-modal h2 {
+  margin-bottom: 20px;
+}
+
+.quiz-modal input[type="text"] {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.example-sentence {
+  margin-top: 20px;
+  font-style: italic;
+  background-color: #eef2f7;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.quiz-result {
+  margin-top: 20px;
+  text-align: left;
+  background-color: #f0f4ff;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.vocab-manager {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #fff8e1;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+.vocab-manager input[type="text"] {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

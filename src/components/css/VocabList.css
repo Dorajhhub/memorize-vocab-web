@@ -1,0 +1,17 @@
+.vocab-list {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #e8f0fe;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+.vocab-list ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.vocab-list li {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
