@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memorize-vocab-web/static/css/main.f0c1842e.css",
+    "main.js": "/memorize-vocab-web/static/js/main.d4c3228f.js",
+    "index.html": "/memorize-vocab-web/index.html",
+    "main.f0c1842e.css.map": "/memorize-vocab-web/static/css/main.f0c1842e.css.map",
+    "main.d4c3228f.js.map": "/memorize-vocab-web/static/js/main.d4c3228f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c1842e.css",
+    "static/js/main.d4c3228f.js"
+  ]
+}
